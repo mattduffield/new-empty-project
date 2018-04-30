@@ -1,1 +1,1 @@
-# new-empty-project
+# empty-web
